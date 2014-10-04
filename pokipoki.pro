@@ -4,8 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui network
-QT += webkit
+QT       += core gui network webkit webkitwidgets
 TARGET = pokipoki
 TEMPLATE = app
 
